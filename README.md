@@ -6,7 +6,7 @@
 
 ### Sites 
 
-- Libradtran usage guide (greek)  [libradtran-guide-thanasisn.netlify.app](https://libradtran-guide-thanasisn.netlify.app)
+- LibRadtran usage guide (greek)  [libradtran-guide-thanasisn.netlify.app](https://libradtran-guide-thanasisn.netlify.app)
     
     
 <!---
