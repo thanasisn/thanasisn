@@ -7,7 +7,7 @@
 ### Sites 
 
 - LibRadtran usage guide (greek)  [libradtran-guide-thanasisn.netlify.app](https://libradtran-guide-thanasisn.netlify.app)
-    
+- LAP sum tracker manual (greek)  [lap-tracker-manual-thanasisn.netlify.app](https://lap-tracker-manual-thanasisn.netlify.app)    
     
 <!---
 thanasisn/thanasisn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
