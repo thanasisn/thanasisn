@@ -6,7 +6,7 @@
 
 ### Sites 
 
-- My Linux systems deployment notes [deploy-notes-thanasisn.netlify.app/](https://deploy-notes-thanasisn.netlify.app)
+- My Linux systems deployment notes [deploy-notes-thanasisn.netlify.app](https://deploy-notes-thanasisn.netlify.app)
 - Οδηγός χρήσης libRadtran [libradtran-guide-thanasisn.netlify.app](https://libradtran-guide-thanasisn.netlify.app)
 - Εγχειρίδιο λειτουργίας ηλιοστάτη ΕΦΑ, ΑΠΘ  [lap-tracker-manual-thanasisn.netlify.app](https://lap-tracker-manual-thanasisn.netlify.app)    
     
