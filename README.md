@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @thanasisn
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on something
-- 📫 How to reach me ...
+- 📫 Reach me here
 
 ### Sites 
 
