@@ -5,6 +5,7 @@
 ### Sites 
 
 - My personal site: [thanasisn.github.io](https://thanasisn.github.io/)
+  -   [Οδηγός χρήσης libRadtran](https://thanasisn.github.io/Libratran_guide/Libratran_guide.html). Run on: Linux, Windows, grid, cluster or parallel.
  
     
 <!---
