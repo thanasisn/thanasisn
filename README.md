@@ -2,10 +2,10 @@
 - 👀 I’m interested in everything
 - 📫 Reach me here
 
-### Sites 
-
-- My personal site: [thanasisn.github.io](https://thanasisn.github.io/)
-  -   [Οδηγός χρήσης libRadtran](https://thanasisn.github.io/Libratran_guide/Libratran_guide.html). Run on: Linux, Windows, grid, cluster or parallel.
+### My personal site: [thanasisn.github.io](https://thanasisn.github.io/)
+Includes:
+  - [Data display of LAP broadbands](https://thanasisn.github.io/data_display.html). GHI, DNI, and meterological data.
+  - [Οδηγός χρήσης libRadtran](https://thanasisn.github.io/Libratran_guide/Libratran_guide.html). Run on: Linux, Windows, grid, cluster or parallel.
  
     
 <!---
